@@ -8,7 +8,7 @@
 
 
 # Ekran Görüntüleri
-![](images/amazon.png.png)
+![](images/amazon.png)
 
 # Gif
 ![](images/amazon.gif)
